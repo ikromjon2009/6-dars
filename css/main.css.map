@@ -1,1 +1,1 @@
-{"version":3,"sources":["../scss/main.scss","main.css"],"names":[],"mappings":"AAAA;;;;;;;CAAA;AASA;EACE,qBAAA;EACA,YAAA;EACA,YAAA;EACA,mBAAA;EACA,WAAA;EACA,YAAA;EACA,yBAAA;ACAF","file":"main.css"}
+{"version":3,"sources":["../bolokc/_table.scss","main.css"],"names":[],"mappings":"AAAA;EACE,yBAAA;ACCF;ADAE;;EAEE,uBAAA;ACEJ","file":"main.css"}
