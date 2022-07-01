@@ -1,8 +1,7 @@
 .table {
   border-collapse: collapse;
-  td,
-  th{
-    border: 1px sloid black;
-  }
 }
-
+.table td,
+.table th {
+  border: 1px sloid black;
+}/*# sourceMappingURL=main.css.map */
